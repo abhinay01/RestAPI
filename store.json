@@ -34,16 +34,6 @@
          "first_name":"Com",
          "last_name":"IQ",
          "posts":45
-      },
-      {
-         "authors":[
-            {
-               "id":0,
-               "first_name":"Com",
-               "last_name":"IQ",
-               "posts":45
-            }
-         ]
       }
    ]
 }
