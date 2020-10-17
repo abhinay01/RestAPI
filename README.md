@@ -6,8 +6,7 @@ A Rest Application for serving data from store.json.
 ## How it works
 #### Locally
 To run locally please download the project and install json server from https://github.com/typicode/json-server.<br>
-After successful setup.<br>
-Please open Postman and test all the supported method through it.
+After successful setup,please open Postman and test all the supported method through it.
 
 #### Cloud
 This application is already hosted on heroku <br>
