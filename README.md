@@ -4,11 +4,17 @@ RestAPI
 A Rest Application for serving data from store.json.
 
 #### How it works
-This application is hosted on heroku <br>
+# Locally
+To run locally please download the project and install json server from https://github.com/typicode/json-server.<br>
+upon succesfull setup.<br>
+Please open Postman and test all the supported method through it.
+
+# Cloud
+This application is already hosted on heroku <br>
 https://restapi-abhinay.herokuapp.com
 
 Any change in the this project will autometically trigger it's deployment on heroku.
-Upon succesful build, you can access the application using the above link.
+Upon successfull build, you can access the application using the above link.
 
 ### Supported Method
 
