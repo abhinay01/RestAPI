@@ -25,10 +25,10 @@ Upon succesful build, you can access the application using the above link.
     
 • Sorting :
 
-    GET /posts?sort=views order%=Desc
+    GET /posts?sort=views&order%=Desc
     
 • Basic search:
 
-    GET /posts?q=IQ
+    GET /posts?q=100
 
 Note: To test above methods like post,put,delete and patch, you need a client like postman
