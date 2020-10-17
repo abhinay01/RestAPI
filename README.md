@@ -25,9 +25,9 @@ Upon succesful build, you can access the application using the above link.
     
 • Sorting :
 
-    GET /posts?sort=views&order%=Desc
+    GET /posts?_sort=views&_order=asc
     
-• Basic search:
+• Search:
 
     GET /posts?q=100
 
